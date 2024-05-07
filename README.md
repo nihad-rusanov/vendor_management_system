@@ -18,29 +18,25 @@
 5. Run the development server:
    python manage.py runserver
 
+1. Clone the repository
 ```bash
-## Clone the repository
 git clone https://github.com/your-username/vendor-management-system.git
 cd vendor-management-system
 ```
-
+2. Install dependencies
 ```bash
-## Install dependencies
 pip install -r requirements.txt
 ```
-
+3. Apply migrations
 ```bash
-## Apply migrations
 python manage.py migrate
 ```
-
+4. Create a superuser account
 ```bash
-## Create a superuser account
 python manage.py createsuperuser
 ```
-
+5. Run the development server
 ```bash
-## Run the development server
 python manage.py runserver
 ```
 
