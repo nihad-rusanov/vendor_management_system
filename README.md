@@ -18,6 +18,24 @@
 5. Run the development server:
    python manage.py runserver
 
+```bash
+## Clone the repository
+git clone https://github.com/your-username/vendor-management-system.git
+cd vendor-management-system
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Apply migrations
+python manage.py migrate
+
+## Create a superuser account
+python manage.py createsuperuser
+
+## Run the development server
+python manage.py runserver
+
+
 ## API Endpoints
 
 ### Vendor Profile Management
