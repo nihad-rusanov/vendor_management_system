@@ -22,18 +22,27 @@
 ## Clone the repository
 git clone https://github.com/your-username/vendor-management-system.git
 cd vendor-management-system
+```
 
+```bash
 ## Install dependencies
 pip install -r requirements.txt
+```
 
+```bash
 ## Apply migrations
 python manage.py migrate
+```
 
+```bash
 ## Create a superuser account
 python manage.py createsuperuser
+```
 
+```bash
 ## Run the development server
 python manage.py runserver
+```
 
 
 ## API Endpoints
