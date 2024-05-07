@@ -2,22 +2,6 @@
 
 ## Setup Instructions
 
-1. Clone the repository:
-   git clone https://github.com/your-username/vendor-management-system.git
-   cd vendor-management-system
-   
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Apply migrations:
-   python manage.py migrate
-
-4. Create a superuser account:
-   python manage.py createsuperuser
-
-5. Run the development server:
-   python manage.py runserver
-
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/vendor-management-system.git
