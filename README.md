@@ -4,7 +4,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/vendor-management-system.git
+git clone https://github.com/nihad-rusanov/vendor_management_system.git
 cd vendor-management-system
 ```
 2. Install dependencies
